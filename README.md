@@ -2,7 +2,7 @@
 🧔 My name is Viet Doan.
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=tokyonight)
 
 Languages
 HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
