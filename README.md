@@ -6,7 +6,7 @@
 
 [![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true)](https://github.com/viet-doan/github-readme-stats)
 
-[![Viet's stats](https://github-readme-stats.vercel.app/api/wakatime?username=viet-doan)](https://github.com/viet-doan/github-readme-stats)
+
 
 
 
