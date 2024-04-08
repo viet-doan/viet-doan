@@ -3,9 +3,8 @@
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=tokyonight)
-<!--
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viet-doan)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/viet-doan/))
--->
+[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan)](https://github.com/viet-doan/github-readme-stats)
+
 
 Languages
 HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
