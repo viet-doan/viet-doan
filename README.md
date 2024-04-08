@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=tokyonight)
 
-[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=tokyonight&hide=stars,commits,contribs)](https://github.com/viet-doan/github-readme-stats)
+[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=tokyonight&hide=stars,prs,issues)](https://github.com/viet-doan/github-readme-stats)
 
 
 Languages
