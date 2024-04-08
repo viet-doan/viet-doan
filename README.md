@@ -2,9 +2,9 @@
 🧔 My name is Viet Doan.
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula)
 
-[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=tokyonight&hide=stars,prs,issues)](https://github.com/viet-doan/github-readme-stats)
+[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues)](https://github.com/viet-doan/github-readme-stats)
 
 
 Languages
