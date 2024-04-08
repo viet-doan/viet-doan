@@ -1,5 +1,9 @@
 ### Hi there 👋
+🧔 My name is Viet Doan.
+🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
+Languages
+HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
 <!--
 **viet-doan/viet-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
