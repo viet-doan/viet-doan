@@ -1,5 +1,6 @@
 ### Hi there, I'm Viet Doan 👋
 [![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/viet-doan)
+
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula)
