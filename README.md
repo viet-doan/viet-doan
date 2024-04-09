@@ -1,4 +1,4 @@
-![image](https://github.com/viet-doan/viet-doan/assets/136438459/7291e08a-eca7-463b-9c56-2e8b6705e5fa)### Hi there, I'm Viet Doan 👋
+### Hi there, I'm Viet Doan 👋
 
 
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
