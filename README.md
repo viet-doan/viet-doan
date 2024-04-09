@@ -1,5 +1,5 @@
 ### Hi there, I'm Viet Doan 👋
-[![Mail](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:vietdoan.vqd@gmail.com) 
+[![Mail](https://img.shields.io/badge/mail-840010?style=for-the-badge&logo=mail&logoColor=white)](mailto:vietdoan.vqd@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-doan-vqd/)
 
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
