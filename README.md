@@ -15,8 +15,10 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Stats
 [![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true)](https://github.com/viet-doan/github-readme-stats)
 
+### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet-doan&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viet-doan&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viet-doan&theme=dracula)
