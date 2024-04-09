@@ -1,5 +1,5 @@
 ### Hi there, I'm Viet Doan 👋
-[<image align="left" alt="vietdoan | LinkedIn" width="22px" src="./linkedin.sv"/>[linkedin]
+[<image align="left" alt="vietdoan | LinkedIn" width="22px" src="./linkedin.sv"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/viet-doan-vqd/
 
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
