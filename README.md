@@ -12,11 +12,12 @@
 
 Languages
 HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
-<!--
-**viet-doan/viet-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Contacts:
 [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://linkedin.com/in/viet-doan-vqd/) 
+
+<!--
+**viet-doan/viet-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
