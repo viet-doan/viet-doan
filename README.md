@@ -1,5 +1,7 @@
-### Hi there 👋
-🧔 My name is Viet Doan.
+### Hi there, I'm Viet Doan 👋
+[<image align="left" alt="vietdoan | LinkedIn" width="22px" src="./linkedin.sv"/>[linkedin]
+[linkedin]: https://www.linkedin.com/in/viet-doan-vqd/
+
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula)
@@ -13,8 +15,7 @@
 Languages
 HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
 
-Contacts:
-[![LinkedIn](https://linkedin.com/in/viet-doan-vqd/)]
+
 
 <!--
 **viet-doan/viet-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
