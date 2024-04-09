@@ -1,6 +1,8 @@
 ### Hi there, I'm Viet Doan 👋
 [![Mail](https://img.shields.io/badge/mail-840010?style=for-the-badge&logo=mail&logoColor=white)](mailto:vietdoan.vqd@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-doan-vqd/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-doan-vqd/)\
+https://img.shields.io/discourse/users?style=flat-square&logo=discord&logoColor=%09%237289da&color=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F776688089325502466
+
 
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
