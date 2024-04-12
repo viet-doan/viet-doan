@@ -3,7 +3,8 @@
 
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
-![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&count-private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
+<!-- ![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&count-private=true) -->
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
