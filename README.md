@@ -4,8 +4,6 @@
 🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
-![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
-![Top Langs](https://github-readme-stats-git-master-viet-doans-projects-a90ed107.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
 <!-- ![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&count-private=true) -->
 
 
@@ -21,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Stats
-[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true&count-private=true)](https://github.com/viet-doan/github-readme-stats)
+[![Viet's GitHub stats](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true&count-private=true)](https://github.com/viet-doan/github-readme-stats)
 
 ### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet-doan&theme=dracula&count-private=true)
