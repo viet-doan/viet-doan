@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
 ![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
-![Top Langs](https://github-readme-stats-git-master-viet-doans-projects-a90ed107.vercel.app/top-langs/?username=viet-doan&theme=dracula&count-private=true)
+![Top Langs](https://github-readme-stats-git-master-viet-doans-projects-a90ed107.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
 <!-- ![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&count-private=true) -->
 
 
