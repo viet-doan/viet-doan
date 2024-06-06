@@ -31,9 +31,6 @@
 
 
 
-Languages
-HTML5 CSS3 Python C PowerShell Windows Terminal MySQL Matlab 
-
 
 
 <!--
