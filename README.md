@@ -1,49 +1,103 @@
-### Hi there, I'm Viet Doan 👋
 [![Github](https://img.shields.io/github/followers/viet-doan?label=Follow&style=social)](https://github.com/viet-doan)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B" alt="Hi there /></a>
+</h1>
+<h1 align="center"><br>I'm Viet Doan</h1>
+<!-- <h6 align="center">🌱 I’m currently studying Bachelor of Science (Major in Computing and Software System) at The University of Melbourne.</h6> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true)
-<!-- ![Top Langs](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&count-private=true) -->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+<h3 align="left">About Me</h3>
+
+- 👨‍🎓 Student at The University of Melbourne
+
+- 🌱 Currently learning **React, NodeJS**
+
+- 👨‍💻 Currently working on my online portfolio
+
+- 💼 I recently Joined Quicksite.guru as a volunteered React platform developer
+
+- 👶 I was born and raised in Vietnam
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/viet-doan-vqd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viet Doan" height="30" width="40" /></a>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true" alt="Top Langs"> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true) -->
+
+<h3 align="left" >Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,java" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+<!-- - Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p> -->
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,matlab,idea,vscode,git,github,figma" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!--### Stats
+[![Viet's GitHub stats](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true&count-private=true)](https://github.com/viet-doan/github-readme-stats) -->
 
-### Stats
-[![Viet's GitHub stats](https://github-readme-stats-viet-doans-projects-a90ed107.vercel.app/api?username=viet-doan&theme=dracula&hide=stars,prs,issues&show_icons=true&count-private=true)](https://github.com/viet-doan/github-readme-stats)
-
-### Summary
+<!-- ### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet-doan&theme=dracula&count-private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viet-doan&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viet-doan&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viet-doan&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viet-doan&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viet-doan&theme=dracula)  -->
+<h1 align="center">Statistics Summary</h1>
+<p align="center">
+  <a href="https://github.com/viet-doan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viet-doan&theme=dracula" alt="Viet's GitHub streak"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/viet-doan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet-doan&theme=dracula" alt="Viet's GitHub Contribution"/>
+  </a>
+</p>
 
-
-
-
-
-
-<!--
-**viet-doan/viet-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a> 
+    <a href="https://github.com/viet-doan"><img alt="Viet's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=viet-doan&show_icons=true&count_private=true&theme=dracula" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/viet-doan"><img alt="Viet's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
