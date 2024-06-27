@@ -15,7 +15,7 @@
 
 - 👨‍🎓 Student at The University of Melbourne
 
-- 🌱 Currently learning **React, NodeJS**
+- 🌱 Currently learning **NodeJS, Firebase, MongoDB**
 
 - 👨‍💻 Currently working on my online portfolio
 
