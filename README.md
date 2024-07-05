@@ -23,14 +23,34 @@
 
 - 👶 I was born and raised in Vietnam
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/viet-doan-vqd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viet Doan" height="30" width="40" /></a>
+
 <br><br>
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://linkedin.com/in/viet-doan-vqd/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="30" />
+  <a href="https://linkedin.com/in/viet-doan-vqd/" target="_blank"> Linkedin</a>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://viet-doan.com/" target="_blank">
+  <img align="center" src="https://github.com/viet-doan/viet-doan/assets/136438459/ba7eb99b-0d94-4514-9912-5232ad3f96d2" alt="Personal Portfolio" width="40" height="40" />
+  My Online Portfolio
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://koicorner.art/" target="_blank">
+  <img align="center" src="https://github.com/viet-doan/viet-doan/assets/136438459/c8e775a4-a404-42d2-9b63-13645e979074" alt="Personal Gallery" width="40" height="40" />
+  My Personal Design Gallery
+</a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true" alt="Top Langs"> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&theme=dracula&count-private=true) -->
+
+<h3 align="left" >Hackathons:</h3>
+
+[2024 Tiktok TechJam](https://devpost.com/software/livedesign-pro/) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Joan-gao/eventpage-design-platform)
+
 
 <h3 align="left" >Languages and Tools:</h3>
 
