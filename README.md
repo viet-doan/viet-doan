@@ -75,12 +75,12 @@
   </a>
 </p>
 
-<!-- - Cloud Servers
+- Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
-</p> -->
+</p>
 
 - Tools
 <p align="left">
