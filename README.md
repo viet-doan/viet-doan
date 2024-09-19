@@ -51,6 +51,8 @@
 
 [2024 Tiktok TechJam](https://devpost.com/software/livedesign-pro/) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Joan-gao/eventpage-design-platform)
 
+[Canva AI and Integrations Hackathon](https://devpost.com/software/magicbook-ai) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Joan-gao/canva-magicbook-ai)
+
 
 <h3 align="left" >Languages and Tools:</h3>
 
@@ -64,7 +66,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,tailwind,materialui" />
   </a>
 </p>
 
@@ -85,7 +87,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,matlab,idea,vscode,powershell,bash,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=ai,matlab,idea,vscode,powershell,bash,git,github,githubactions,figma" />
   </a>
 </p>
 
