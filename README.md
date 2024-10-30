@@ -59,7 +59,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,nodejs,express" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku" />
   </a>
 </p>
 
