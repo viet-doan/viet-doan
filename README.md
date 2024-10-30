@@ -15,11 +15,11 @@
 
 - 👨‍🎓 Student at The University of Melbourne
 
-- 🌱 Currently learning **NodeJS, Firebase, MongoDB**
+- 🌱 Expected to Graduate in December 2024
 
-- 👨‍💻 Currently working on my online portfolio
-
-- 💼 I recently Joined Quicksite.guru as a volunteered React platform developer
+- 👨‍💻 Currently studying for my final exams
+  
+- 💼 I amm currently a Fullstack Developer at  Quicksite Guru
 
 - 👶 I was born and raised in Vietnam
 
