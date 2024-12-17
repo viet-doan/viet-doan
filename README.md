@@ -13,13 +13,13 @@
 
 <h3 align="left">About Me</h3>
 
-- 👨‍🎓 Student at The University of Melbourne
+- 👨‍🎓 Graduate at The University of Melbourne
 
-- 🌱 Expected to Graduate in December 2024
+- 👨‍💻 I like to join hackathons
 
-- 👨‍💻 Currently studying for my final exams
-  
-- 💼 I amm currently a Fullstack Developer at  Quicksite Guru
+- 🌱 I like to play sports
+
+- 💼 I am currently a Fullstack Developer at  Quicksite Guru
 
 - 👶 I was born and raised in Vietnam
 
@@ -49,9 +49,13 @@
 
 <h3 align="left" >Hackathons:</h3>
 
+
 [2024 Tiktok TechJam](https://devpost.com/software/livedesign-pro/) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Joan-gao/eventpage-design-platform)
 
 [Canva AI and Integrations Hackathon](https://devpost.com/software/magicbook-ai) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Joan-gao/canva-magicbook-ai)
+
+[Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/) &nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/Polygon2024/SummarAIze)
+
 
 
 <h3 align="left" >Languages and Tools:</h3>
