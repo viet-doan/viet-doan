@@ -19,7 +19,7 @@
 
 - 🌱 I like to play sports
 
-- 💼 I am currently a Fullstack Developer at  Quicksite Guru
+- 💼 I am currently a Software Engineer at Tempus Insights
 
 - 👶 I was born and raised in Vietnam
 
