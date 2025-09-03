@@ -124,6 +124,7 @@
 
 <a> 
     <a href="https://github.com/viet-doan"><img alt="Viet's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=viet-doan&show_icons=true&count_private=true&theme=dracula" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/viet-doan"><img alt="Viet's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/></a>
+<!--   Top Languages   -->
+<!--   <a href="https://github.com/viet-doan"><img alt="Viet's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viet-doan&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/></a> -->
   <br/>
 </a>
